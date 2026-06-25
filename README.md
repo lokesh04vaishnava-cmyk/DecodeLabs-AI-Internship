@@ -8,6 +8,7 @@ This repository contains my completed projects from the DecodeLabs Industrial Tr
 |---|---------|---------|--------|
 | 1 | [Rule-Based AI Chatbot](./Project1%20AI%20Chat%20Bot) | Control flow, dictionary-based logic, hybrid AI fallback | ✅ Complete |
 | 2 | [Data Classification Using AI](./Project2-Data-Classification) | Supervised learning, KNN, model evaluation | ✅ Complete |
+| 3 | [Tech Stack Recommender](./Project3%20Tech%20stack%20Recommender) | Content-based filtering, TF-IDF, Cosine Similarity | ✅ Complete |
 
 ## Tech Stack
 - Python 3.12
